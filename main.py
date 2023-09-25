@@ -11,7 +11,7 @@ btns = ttk.Button(text='Покраска в красный', command=red) #Кн�
 btns.place(relx=.0, rely=1, anchor='sw', width=120, height=25)
 
 
-# Вторая кнопка
+# Вторая кнопка >:D
 def purple():
     styles = ttk.Style()
     styles.configure("BW.TLabel", background="purple")
